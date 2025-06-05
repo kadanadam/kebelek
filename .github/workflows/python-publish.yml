@@ -1,4 +1,4 @@
-name: NowTV M3U8 Fetcher
+name: kebelekci
 
 on:
   schedule:
